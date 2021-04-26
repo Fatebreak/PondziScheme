@@ -1,0 +1,1 @@
+text = scribble("Most of your screen will be the [c_blue]Maze[c_white]. [c_orange]Investors[c_white] will enter in from a few entrances on the left side. If they make it all the way to the area on the right, they will immediately invest! Their funds will be added to your total [c_lime]cash[c_white].").align(fa_left, fa_top).wrap(256).transform(.8, .8, 0);

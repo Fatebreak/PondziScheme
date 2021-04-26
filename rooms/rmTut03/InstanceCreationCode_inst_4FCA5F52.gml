@@ -1,0 +1,1 @@
+text = scribble("The [c_red]Loan Shark[c_white] expects regular payments. If the gauge to the right empties, it's [c_red]Game Over[c_white] click on the [c_red]Shark[c_white] to pay him and refill the gauge. Over time, the gauge will deplete faster and the [c_red]Shark[c_white] will demand higher payments. Be vigilant!").align(fa_left, fa_top).wrap(256).transform(.8, .8, 0);

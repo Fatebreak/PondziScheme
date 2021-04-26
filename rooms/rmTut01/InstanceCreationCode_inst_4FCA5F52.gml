@@ -1,0 +1,1 @@
+text = scribble("[c_white]Oh no! You've taken a loan from the treacherous [c_red] Loan Shark[c_white]! Bring in some [c_orange]investors[c_white] to stay afloat as long as you can!").align(fa_left, fa_top).wrap(256).transform(.8, .8, 0);
